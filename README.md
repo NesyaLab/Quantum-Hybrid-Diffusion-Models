@@ -25,7 +25,7 @@ This repository contains the implementation of our [Quantum Hybrid Diffusion Mod
 ### Prerequisites
 
 - Python 3.x
-- Required libraries listed in `requirements.txt`
+
 
 ### Installation
 
